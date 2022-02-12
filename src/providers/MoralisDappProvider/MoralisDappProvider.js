@@ -9,6 +9,8 @@ function MoralisDappProvider({ children }) {
   const [contractABI, setContractABI] = useState(JSON.stringify(require('contracts/contract.json')));
   const [marketAddress, setMarketAddress] = useState('0xd9145CCE52D386f254917e481eB44e9943F39138') //Smart Contract Address Here
 //0x7dca125b1e805dc88814aed7ccc810f677d3e1db
+  //0xd9145CCE52D386f254917e481eB44e9943F39138
+  //0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8
 
   useEffect(() => {
     Moralis.onChainChanged(function (chain) {

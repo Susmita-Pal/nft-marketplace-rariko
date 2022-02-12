@@ -17743,10 +17743,10 @@
     "uuid" "^8.3.2"
     "websocket-driver" "^0.7.4"
 
-"solc@^0.8.0":
-  "integrity" "sha512-ypgvqYZhb/i5BM6cw9/5QkSlDJm/rLynsbWGP3kz6HeB6oNxPK6UMiB7jMr+tNVbQbBM/8l47vrI3XaDCHShjQ=="
-  "resolved" "https://registry.npmjs.org/solc/-/solc-0.8.0.tgz"
-  "version" "0.8.0"
+"solc@^0.8.4":
+  "integrity" "sha512-krEdbucX9yY362l79gXTK2UHhsZ02aQjQOYTzcgTd/waApueo3yWGzjX0CDJ1ByOuW46WuKAyzfbRWdFNr6OYQ=="
+  "resolved" "https://registry.npmjs.org/solc/-/solc-0.8.4.tgz"
+  "version" "0.8.4"
   dependencies:
     "command-exists" "^1.2.8"
     "commander" "3.0.2"

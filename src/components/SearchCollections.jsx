@@ -12,6 +12,7 @@ function SearchCollections({setInputValue}){
 
     function onChange(value) {
         setInputValue(value);
+
     }
 
     return (
